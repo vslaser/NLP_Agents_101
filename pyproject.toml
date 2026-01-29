@@ -26,6 +26,7 @@ langgraph-prebuilt = "^1.0.5"
 langchain-openai = "^1.1.6"
 pypdf = "^5.1.0"
 huggingface-hub = ">=0.23.2,<1.0"
+pypdf2 = "^3.0.1"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.6.8"
