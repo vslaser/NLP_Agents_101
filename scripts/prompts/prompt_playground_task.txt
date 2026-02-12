@@ -1,0 +1,8 @@
+Task:
+{task}
+
+Context (optional):
+{context}
+
+Output format:
+{format_instructions}
